@@ -1,4 +1,4 @@
-## rsym
+## Tsuyoshi Mikami
 
  - https://twitter.com/rsym1290/
  - https://rsym1290.hatenablog.jp/
