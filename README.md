@@ -16,5 +16,5 @@
 
 ### 社外登壇
 
- - 2022/3/19：[YAPC::Kyoto 2023](https://yapcjapan.org/2023kyoto/)
+ - 2023/3/19：[YAPC::Kyoto 2023](https://yapcjapan.org/2023kyoto/)
    - [4ペタバイトを超えるオブジェクトストレージを ハードウェアからアプリケーションにかけて 運用するノウハウ \- Speaker Deck](https://speakerdeck.com/rsym1290/4petabaitowochao-eruobuziekutosutoreziwo-hadoueakaraapurikesiyonnikakete-yun-yong-surunouhau)
