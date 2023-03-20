@@ -13,3 +13,8 @@
  - 2021/4/13：[4ペタバイトの巨大ストレージを支える運用について紹介します \- ペパボテックブログ](https://tech.pepabo.com/2021/04/13/storage_management/)
  - 2021/12/13：[GitHub Actionsを駆使してPuppetのCIを改善してきた道のり \- ペパボテックブログ](https://tech.pepabo.com/2021/12/13/puppet-ci/)
  - 2022/12/16：[プライベートなオブジェクトストレージからS3への移設で直面した2つの課題 \- Pepabo Tech Portal](https://tech.pepabo.com/2022/12/16/bayt-to-s3-goope/)
+
+### 社外登壇
+
+ - 2022/3/19：[YAPC::Kyoto 2023](https://yapcjapan.org/2023kyoto/)
+   - [4ペタバイトを超えるオブジェクトストレージを ハードウェアからアプリケーションにかけて 運用するノウハウ \- Speaker Deck](https://speakerdeck.com/rsym1290/4petabaitowochao-eruobuziekutosutoreziwo-hadoueakaraapurikesiyonnikakete-yun-yong-surunouhau)
