@@ -16,7 +16,7 @@
  - 2023/3/24：[YAPC::Kyoto 2023に登壇しました \- Pepabo Tech Portal](https://tech.pepabo.com/2023/03/24/yapc-kyoto-2023/)
  - 2023/12/13：[GMO Developers Day 2023で30days Albumのデータセンター移設プロジェクトについて発表しました \- Pepabo Tech Portal](https://tech.pepabo.com/2023/12/13/gmodevday-2023-infra/)
 
-### 社外登壇
+### 登壇
 
  - 2023/3/19：[YAPC::Kyoto 2023](https://yapcjapan.org/2023kyoto/)
    - [4ペタバイトを超えるオブジェクトストレージを ハードウェアからアプリケーションにかけて 運用するノウハウ \- Speaker Deck](https://speakerdeck.com/rsym1290/4petabaitowochao-eruobuziekutosutoreziwo-hadoueakaraapurikesiyonnikakete-yun-yong-surunouhau)
