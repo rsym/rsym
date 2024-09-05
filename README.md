@@ -7,6 +7,10 @@
 
 [GMOペパボ株式会社](https://pepabo.com/)　技術部プラットフォームグループ
 
+### 資格
+
+ - 2024/9/2~2026/9/2：[Google Cloud - Professional Cloud Architect](https://www.credly.com/badges/a7d54a8b-ef65-4015-8d37-5409ab841411/public_url)
+
 ### テックブログ
 
  - 2021/3/4：[S3のAPIと互換性を持ったオブジェクトストレージの運用についてお話します \- ペパボテックブログ](https://tech.pepabo.com/2021/03/04/about-bayt/)
